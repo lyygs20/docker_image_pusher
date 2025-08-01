@@ -3,5 +3,6 @@
 #gvenzl/oracle-xe
 #portainer/portainer
 apache/doris:fe-2.1.9
+apache/doris:be-2.1.9
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist

@@ -2,6 +2,6 @@
 #支持私库
 #gvenzl/oracle-xe
 #portainer/portainer
-apache/doris
+selectdb/doris
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist

@@ -1,7 +1,8 @@
 #nginx
-zookeeper:3.8
-mysql:8.0
-redis:7.0
+eclipse-temurin:21-jre
+#zookeeper:3.8
+#mysql:8.0
+#redis:7.0
 #支持私库
 #gvenzl/oracle-xe
 #portainer/portainer

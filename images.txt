@@ -1,5 +1,7 @@
 #nginx
---platform=linux/arm64 eclipse-temurin:21-jre
+#--platform=linux/arm64 eclipse-temurin:21-jre
+
+confluentinc/cp-kafka:7.6.0
 #zookeeper:3.8
 #mysql:8.0
 #redis:7.0
